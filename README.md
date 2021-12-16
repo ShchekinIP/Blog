@@ -1,5 +1,7 @@
 # AngularApp
 
+This application was written in the process of studying the angular framework and is a blog with the ability to view, add, edit and delete posts, and there is also an admin panel. The data is stored in the firebase database.
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.1.
 
 ## Development server
